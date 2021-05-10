@@ -1,9 +1,3 @@
-<!--
-**NirmithVictor/NirmithVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
 ### Hi there 👋
 My name is #Nirmith Victor D'Almeida (or Jay if it is easier lol :joy: no stress)
 
