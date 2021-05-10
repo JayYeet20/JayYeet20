@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is 
-##Nirmith Victor D'Almeida (or Jay if it is easier lol :joy: no stress)
+#Nirmith Victor D'Almeida (or Jay if it is easier lol :joy: no stress)
+
 
 - I am currently a 2nd year soon to be a 3rd year Computer Science 💻 undergraduate at Carleton University.
 - I love to code and solve issues that may relate to time complexity and logical syntax errors 😧.
