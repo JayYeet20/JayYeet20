@@ -1,9 +1,6 @@
 ### Hi there 👋
 My name is Nirmith Victor D'Almeida (or Jay if it is easier lol :joy: no stress)
 
-- What I look like
-![Image of ME](https://github.com/NirmithVictor/nirmithvictor.github.io/blob/main/Project%20Images/Nirmith_pic.png)
-
 - I am currently a 2nd year soon to be a 3rd year Computer Science 💻 undergraduate at Carleton University.
 - I love to code and solve issues that may relate to time complexity and logical syntax errors 😧.
 - I am currently in the process of preparing to recieve my COMPTIA ITF+ and A+ certification and am currently working on gaining my certification for UX/UI designing
