@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmithvictor&label=Profile%20views&color=0e75b6&style=flat" alt="nirmithvictor" /> </p>
 
-- 🔭 I’m currently working on [World Population Lookup](https://github.com/NirmithVictor/World-Popo-Lookup)
+- 🔭 I’m currently working on [Github Lookup](https://github.com/NirmithVictor/Github-Lookup)
 
 - 🌱 I’m currently learning **SQL Server and Angular JS**
 
 - 👯 I’m looking to collaborate on [World Population Lookup](https://github.com/NirmithVictor/World-Popo-Lookup)
 
-- 🤝 I’m looking for help with **CSS and Angular**
+- 🤝 I’m looking for help with **CSS (main) and Angular**
 
 - 👨‍💻 All of my projects are available at [https://nirmithvictor.github.io/](https://nirmithvictor.github.io/)
 
