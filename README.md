@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nirmithvictor.github.io/](https://nirmithvictor.github.io/)
 
-- 💬 Ask me about **University Life**
+- 💬 Ask me about **University Life** and **music**
 
 - ⚡ Fun fact **I used to play paintball and airsoft**
 
