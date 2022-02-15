@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [World Population Lookup](https://github.com/NirmithVictor/World-Popo-Lookup)
 
-- 🤝 I’m looking for help with **CSS (main) and Angular**
+- 🤝 I’m looking for help with **Databases and Figma**
 
 - 👨‍💻 All of my projects are available at [https://nirmithvictor.github.io/](https://nirmithvictor.github.io/)
 
