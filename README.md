@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL Server and Angular JS**
 
-- 👯 I’m looking to collaborate on [World Population Lookup](https://github.com/NirmithVictor/World-Popo-Lookup)
+- 👯 I’m looking to collaborate on Hackathons and Any web based or Software based projects
 
 - 🤝 I’m looking for help with **Databases and Figma**
 
