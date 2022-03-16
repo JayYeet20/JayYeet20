@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **my Portfolio**
 
-- 🌱 I’m currently learning **SQL Server and Angular JS**
+- 🌱 I’m currently learning **SQLite and Haskell**
 
 - 👯 I’m looking to collaborate on Hackathons and Any web based or Software based projects
 
 - 🤝 I’m looking for help with **Databases and Figma**
-
-- 👨‍💻 All of my projects are available at [https://nirmithvictor.github.io/](https://nirmithvictor.github.io/)
 
 - 💬 Ask me about **University Life** and **music**
 
