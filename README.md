@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my Portfolio**
 
-- 🌱 I’m currently learning **SQLite and Haskell**
+- 🌱 I’m currently learning **React and Figma**
 
 - 👯 I’m looking to collaborate on Hackathons and Any web based or Software based projects
 
