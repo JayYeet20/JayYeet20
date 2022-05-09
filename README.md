@@ -28,8 +28,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmithvictor&" alt="nirmithvictor" /></p>
 </p>
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=NirmithVictor&theme=dracula&volumn=8)
-
