@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on Hackathons and Any web based or Software based projects
 
-- 🤝 I’m looking for help with **Databases and Figma**
+- 🤝 I’m looking for help with **JavaScript Frameworks and Figma**
 
 - 💬 Ask me about **University Life** and **music**
 
