@@ -43,12 +43,12 @@
 </p>
 
 <p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmithvictor&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="nirmithvictor" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayYeet20&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="JayYeet20" />
 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmithvictor&show_icons=true&locale=en&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314" alt="nirmithvictor" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayYeet20&show_icons=true&locale=en&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314" alt="JayYeet20" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nirmithvictor&theme=merko&background=000000" alt="nirmithvictor" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JayYeet20&theme=merko&background=000000" alt="JayYeet20" /></p>
 
 </p>
