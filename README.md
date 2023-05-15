@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmith Victor</h1>
-<h3 align="center">A passionate developer and CyberSec Enthusiast from Bahrain. Currently in my 3rd Year Comp Sci.</h3>
+<h3 align="center">A passionate developer and CyberSec Enthusiast from Bahrain. Currently in my 4th Year Comp Sci.</h3>
 
 - 🔭 I’m currently working on **my Portfolio and Formula 1 Site**
 
