@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nirmith Victor</h1>
 <h3 align="center">A passionate developer and CyberSec Enthusiast from Bahrain. Currently in my 4th Year Comp Sci.</h3>
 
-- 🔭 I’m currently working on **my Portfolio and the bros blog**
+- 🔭 I’m currently working on **my Portfolio and on a gallery based blog project**
 
-- 🌱 I’m currently learning **JS Frameworks and Figma**
+- 🌱 I’m currently learning **JS Frameworks and Java**
 
 - 👯 I’m looking to collaborate on Hackathons and Any web based or Software based projects
 
-- 🤝 I’m looking for help with **JavaScript Frameworks and Figma**
+- 🤝 I’m looking for help with **JavaScript Frameworks and Java**
 
-- 💬 Ask me about **University Life** and **music**
+- 💬 Ask me about **University Life, Resume tips, interview tips** and **music**
 
-- ⚡ Fun fact **I used to play paintball and airsoft**
+- ⚡ Fun fact **I used to play paintball and airsoft** and I am new to **warframe**
 
 
 <h3 align="left">Languages and Tools:</h3>
