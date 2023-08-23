@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirmith D'Almeida</h1>
 <h3 align="center">A passionate developer and CyberSec Enthusiast from Bahrain. Currently in my 4th Year Comp Sci.</h3>
 
-- 🔭 I’m currently working on **my Portfolio, a gallery based blog project and a lock UI based software**
+- 🔭 I’m currently working on **my Portfolio and a freecodecamp certification ♥**
 
 - 🌱 I’m currently learning **JS Frameworks and Java**
 
