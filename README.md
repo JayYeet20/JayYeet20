@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I used to play paintball and airsoft** and I am new to **warframe**
 
-want to connect?
+<h3 align="left">Want to connect?</h3>
 <p>
   <a href="https://leetcode.com/nirmithdalmeida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nirmith" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/nirmith-dalmeida-81ab2418a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nirmith D'Almeida LinkedIn" height="30" width="40" /></a>
