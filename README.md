@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **JS Frameworks and Java**
 
-- 👯 I’m looking to collaborate on Hackathons and Any web based or Software based projects
+- 👯 I’m looking to collaborate on **Hackathons, Cryptography based algorithms** and **any web based or Software based projects**
 
 - 🤝 I’m looking for help with **JavaScript Frameworks and Java**
 
 - 💬 Ask me about **University Life, Resume tips, interview tips** and **music**
 
-- ⚡ Fun fact **I used to play paintball and airsoft** and I am new to **warframe**
+- ⚡ Fun fact **I used to play paintball and airsoft** and I am a **gamer**
 
 <h3 align="left">Want to connect?</h3>
 <p>
