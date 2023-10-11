@@ -54,6 +54,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirmithDev&show_icons=true&locale=en&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314" alt="JayYeet20" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NirmithDev&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="JayYeet20" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NirmithDev&theme=rising-sun&border_radius=7.2" alt="JayYeet20" /></p>
 
 </p>
