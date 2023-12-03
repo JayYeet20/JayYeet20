@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C and Web Development practices along with some cryptography**
 
-- 👯 I’m looking to collaborate on **Hackathons, Cryptography based algorithms** and **any web based or Software based projects**
+- 💻 I’m looking to collaborate on **Hackathons, Cryptography based algorithms** and **any web based or Software based projects**
 
 - 🤝 I’m looking for help with **JavaScript Frameworks and Java**
 
