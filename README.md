@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my undergrad degree and trying to finish up some projects ♥**
 
-- 🌱 I’m currently learning **SQL, unit testing and Ruby on Rails**
+- 🌱 I’m currently completing few certifications on **SQL and PowerBI** and learning **unit testing frameworks and Ruby on Rails**
 
 - 💻 I’m looking to collaborate on **Hackathons, Cryptography based algorithms** and **any web based or Software based projects**
 
