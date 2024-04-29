@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently completing few certifications on **SQL and PowerBI** and learning **unit testing frameworks and Ruby on Rails**
 
-- 💻 I’m looking to collaborate on **Hackathons, Cryptography based algorithms** and **any web based or Software based projects**
+- 💻 I’m looking to collaborate on **Hackathons, Cryptography based algorithms, Competitive programming** and **any web based or Software based projects**
 
 - 🤝 I’m looking for help with **JavaScript Frameworks and Java**
 
 - 💬 Ask me about **University Life, Resume tips, interview tips** and **music**
 
 - ⚡ Fun fact **I used to play paintball and airsoft** and I am a **gamer**
+
+- 🕵️‍♀️ I also enjoy completing free certifications over the summer period!
 
 <h3 align="left">Want to connect?</h3>
 <p>
